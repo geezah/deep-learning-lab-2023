@@ -4,9 +4,9 @@ This repository contains an overview of our [award-winning](https://magazin.tu-b
 
 Note: This repository only contains the README for reference/showcase purposes. The actual codebase will not be uploaded due to compliance and security considerations, as the solution was developed on the GPU cluster of the institute and we signed NDAs. This repository merely serves as a reference.
 
-## Methodology
+## Overview
 
-Our approach leverages an ensemble of transformer-based segmentation networks combined with postprocessing techniques for dense anomaly detection, introduced in [Maskomaly](https://arxiv.org/abs/2305.16972). Below are visual representations of the methodology and postprocessing steps.
+The task was based on the [Segment Me If You Can](https://segmentmeifyoucan.com/) benchmark, focusing on anomaly segmentation in street scenes. Our approach leverages an ensemble of transformer-based segmentation networks combined with postprocessing techniques for dense anomaly detection, introduced in [Maskomaly](https://arxiv.org/abs/2305.16972). Below are visual representations of the methodology and postprocessing steps.
 
 ![Methodology Pipeline](assets/methodology.png)
 
